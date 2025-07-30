@@ -1,0 +1,11 @@
+# Node and Next.js
+node_modules/
+.next/
+
+# Environment files
+#.env
+#.env.local
+
+# OS or editor-specific
+.DS_Store
+*.log
